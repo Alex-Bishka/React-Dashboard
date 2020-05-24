@@ -2,7 +2,7 @@ import React from 'react';
 // imported libraries from react
 
 // own imports
-import WeatherCard from './WeatherCard';
+import WeatherCard from './components/WeatherCard/WeatherCard';
 import './App.css';
 
 
