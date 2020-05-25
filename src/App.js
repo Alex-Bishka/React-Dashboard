@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <WeatherCard/>
+      <WeatherCard temp = '30'/>
     </div>
   );
 }
