@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <WeatherCard temp = {21}/>
+      <WeatherCard temp = {21} condition = {"Clear"} city = {"Chicago"} country = {"USA"}/>
     </div>
   );
 }
